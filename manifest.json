@@ -1,0 +1,8 @@
+{
+  "Name": "Power Wheel Boost",
+  "Version": "1.0.0",
+  "Id": "hoshizora.powerwheelboost",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "Boosts all power generators to output 1000 HP.",
+  "Requires": []
+}
