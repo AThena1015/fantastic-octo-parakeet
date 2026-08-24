@@ -1,0 +1,6 @@
+{
+  "MechanicalNodeSpec": {
+    "PowerOutput": 1000
+  },
+  "WaterPoweredGeneratorSpec#delete": {}
+}
