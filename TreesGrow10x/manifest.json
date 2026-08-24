@@ -1,0 +1,9 @@
+{
+  "Name": "Trees Grow 10x",
+  "Version": "1.0.0",
+  "Id": "TreesGrow10x",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "All trees grow 10 times faster (GrowthTimeInDays / 10).",
+  "RequiredMods": [],
+  "OptionalMods": []
+}
