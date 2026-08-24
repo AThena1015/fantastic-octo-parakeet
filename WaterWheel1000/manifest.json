@@ -1,0 +1,9 @@
+{
+  "Name": "Water Wheel 1000",
+  "Version": "1.0.0",
+  "Id": "WaterWheel1000",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "All water wheels are forced to output 1000 HP, independent of water flow.",
+  "RequiredMods": [],
+  "OptionalMods": []
+}
